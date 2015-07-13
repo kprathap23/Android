@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="3dp">
+
+    <ImageView
+        android:id="@+id/thumbIcon"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+
+        android:gravity="center_vertical"
+        android:src="@drawable/cheese_2" />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/thumbIcon"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+
+        android:layout_marginBottom="2dp">
+
+
+        <TextView
+            android:id="@+id/tvDownloads"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+          android:layout_marginLeft="5dp"
+            android:drawableLeft="@drawable/icon_download"
+            android:gravity="center_vertical"
+            android:text="120"
+            android:textColor="#FFF"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/tvFav"
+            android:layout_width="wrap_content"
+
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/icon_love"
+            android:gravity="center_vertical"
+            android:text="100 Likes"
+            android:textColor="#FFF"
+            android:textSize="12sp"
+            android:layout_marginRight="5dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

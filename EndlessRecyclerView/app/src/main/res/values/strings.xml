@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">WallDroidHD</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="crash_toast_text">App Crashed !!! Report has been sent to developer</string>
+
+    <string name="crash_dialog_title">Alert</string>
+    <string name="crash_dialog_text">OOPS!!!An unexpected error</string>
+    <string name="crash_dialog_comment_prompt">Comments</string>
+    <string name="crash_dialog_ok_toast">Thank you!</string>
+    <string name="crash_user_email_label"></string>
+    <integer name="photo_list_preview_columns">2</integer>
+
+
+
+    <string name="nav_drawer_recently_added">Recently Added</string>
+    <string name="toast_saved">Wallpapaer saved to #</string>
+    <string name="toast_saved_failed">Sorry! Failed to save wallpaper</string>
+    <string name="toast_wallpaper_set">Wallpapaer updated!</string>
+    <string name="toast_wallpaper_set_failed">Sorry! Unable to set wallpapaer</string>
+    <string name="splash_error">Unable to download wallpapers. Verify your google\'s user name in settings or device doesn\'t have internet connection!</string>
+    <string name="set_wallpaper">Set</string>
+    <string name="download_wallpaper">Download</string>
+    <string name="msg_unknown_error">Sorry! Unknown error occurred.</string>
+    <string name="msg_wall_fetch_error">Sorry! Unable to fetch wallpaper(s). Verify app settings or device doesn\'t have internet connection.</string>
+    <string name="toast_enter_google_username">Please enter google username</string>
+    <string name="toast_enter_valid_grid_columns">Please enter valid number of columns</string>
+    <string name="toast_enter_gallery_name">Please enter gallery directory name</string>
+    <string name="lbl_google_username">Google username</string>
+    <string name="lbl_no_grid_columns">Number of grid columns</string>
+    <string name="lbl_gallery_name">Gallery directory name</string>
+    <string name="lbl_btn_save">Save</string>
+
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+
+    <integer name="photo_list_preview_columns">3</integer>
+
+</resources>
