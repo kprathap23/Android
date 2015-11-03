@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools" >
+<!-- Search Widget -->
+<item
+    android:id="@+id/action_search"
+    android:orderInCategory="100"
+    android:title="@string/action_search"
+    android:voiceSearchMode="showVoiceSearchButton|launchRecognizer"
+    app:actionViewClass="android.support.v7.widget.SearchView"
+    app:showAsAction="always"/>
+</menu>
+
+
