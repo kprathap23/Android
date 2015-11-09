@@ -21,13 +21,16 @@ GrdiWallpaperActivity
 
 
 
-2) Sample1
+2) Sample1(SampleApp Like Contacts App in android)
 
 
-![List](https://photos.google.com/search/_e%2Fm%2F01zbnw_Screenshots/photo/AF1QipOQ2UjQpEvTWz0QXWeVHOkwVHEFd0jOsMXNtd4O)
+![List](https://dl.dropboxusercontent.com/u/83669745/images/Screenshot_2015-09-27-20-57-56.png)
 
 
-![Detail Page](https://photos.google.com/search/_e%2Fm%2F01zbnw_Screenshots/photo/AF1QipMvogC7jQGZbdxkpEObwTMlklIEfx1VrR0Dki7d)
+![Detail Page](https://dl.dropboxusercontent.com/u/83669745/images/Screenshot_2015-09-23-15-09-20.png)
 
-Contacts List
+
+![Add/Edit Page](https://dl.dropboxusercontent.com/u/83669745/images/Screenshot_2015-09-23-15-09-09.png)
+
+
 
