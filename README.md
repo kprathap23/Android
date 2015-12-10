@@ -3,10 +3,7 @@
 
 Android Sample Apps
 
-<<<<<<< HEAD
-=======
 
->>>>>>> origin/master
 1) EndlessRecyclerView
 
 For List
@@ -24,7 +21,6 @@ GrdiWallpaperActivity
 
 
 
-<<<<<<< HEAD
 
 2) Sample1
 
@@ -43,5 +39,5 @@ Contact List
 ![Add/Edit Page](https://dl.dropboxusercontent.com/u/83669745/images/Screenshot_2015-09-23-15-09-09.png)
 
 
->>>>>>> origin/master
+3) Sectioned RecyclerView
 
