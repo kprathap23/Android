@@ -10,7 +10,7 @@ For List
 
 WallpaperActivity
 
-![ScreenShot](https://dl.dropboxusercontent.com/u/83669745/images/list.png)
+![ScreenShot](https://www.dropbox.com/s/qw88sr5xkaxq770/list.png)
 
 For Grid
 
