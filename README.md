@@ -12,7 +12,7 @@ WallpaperActivity
 
 https://www.dropbox.com/s/qw88sr5xkaxq770/list.png
 
-![ScreenShot](https://www.dropbox.com/s/qw88sr5xkaxq770/list.png)
+![ScreenShot](https://raw.githubusercontent.com/kprathap23/Android/master/Screenshots/wallpapers.png)
 
 For Grid
 
