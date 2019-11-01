@@ -10,7 +10,7 @@ For List
 
 WallpaperActivity
 
-https://www.dropbox.com/s/qw88sr5xkaxq770/list.png
+https://raw.githubusercontent.com/kprathap23/Android/master/Screenshots/wallpapers.png
 
 ![ScreenShot](https://raw.githubusercontent.com/kprathap23/Android/master/Screenshots/wallpapers.png)
 
@@ -19,7 +19,7 @@ For Grid
 GrdiWallpaperActivity
 
 
-![ScreenShot](https://dl.dropboxusercontent.com/u/83669745/images/grid.png)
+![ScreenShot](https://raw.githubusercontent.com/kprathap23/Android/master/Screenshots/grid_Wallpaper.png)
 
 
 
